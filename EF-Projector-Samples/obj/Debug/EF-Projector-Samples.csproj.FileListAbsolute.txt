@@ -1,0 +1,14 @@
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EF-Projector-Samples.dll.config
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EF-Projector-Samples.dll
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EF-Projector-Samples.pdb
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EF-Split-Projector.dll
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EntityFramework.dll
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\LinqKit.dll
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\nunit.framework.dll
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EntityFramework.xml
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\bin\Debug\nunit.framework.xml
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\obj\Debug\EF-Projector-Samples.csprojResolveAssemblyReference.cache
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\obj\Debug\EF-Projector-Samples.dll
+E:\Repos\EF-Projector-Samples\EF-Projector-Samples\obj\Debug\EF-Projector-Samples.pdb
